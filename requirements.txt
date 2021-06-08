@@ -1,6 +1,6 @@
 keyboard==0.13.3
 numpy==1.16.4
-Pillow==6.0.0
+Pillow==8.2.0
 pyHook==1.5.1
 PyUserInput==0.1.11
 pywin32==224
